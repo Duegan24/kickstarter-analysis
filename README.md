@@ -3,4 +3,4 @@ Performing analysis on Kickstarter data to uncover trends
 
 ##Initial Analysis: Parent Category Outcomes
 
-!["Parent Category Outcomes"]("Parent Category Outcomes.png")
+!["Parent Category Outcomes"](https://github.com/Duegan24/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes.png)
