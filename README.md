@@ -10,7 +10,7 @@ What contributes to the success of Kickstarter Campaigns?
 4)	Length of the campaign 
 5)	Type of campaign
 
-In the study performed to date, I will focus on two factors: 1) size of the goal and 2) The month the campaign started.
+In the study performed to date, I will focus on two factors: 1) Size of the goal and 2) Month the campaign started.
 
 ### The Month the Campaign Started
 
