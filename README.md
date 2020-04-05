@@ -18,7 +18,7 @@ In the study performed to date, I will focus on two factors: 1) Size of the goal
 
 To create the above graph, I filtered the data provided by the category Theater because I felt it was critical to have enough of a sample size to be able to assess if the month that the campaign started would have an impact on its success.  This assumes that all subcategories of the category Theater are likely to be equally impacted by the start time.
 
-Based on the above graph, the starting month of May is when most successful campaigns are started.  For the next four months, the likelihood of a successful campaign declines steadily.  December is demonstrated to be the lowest month for a successful campaign. 
+Based on the above graph, the starting month of May is when most successful campaigns are started.  For the next four months, the likelihood of a successful campaign declines steadily.  December is demonstrated to be the month with the lowest likelihood for a successful campaign. 
 
 ### Size of the Goal
 
